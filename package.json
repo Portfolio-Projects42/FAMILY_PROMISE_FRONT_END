@@ -12,7 +12,7 @@
     "antd": "4.15.5",
     "axios": "0.21.1",
     "craco-less": "1.17.1",
-    "multiselect-react-dropdown": "1.6.11",
+    "multiselect-react-dropdown": "1.7.0",
     "plotly.js": "1.58.4",
     "rc-tween-one": "2.7.3",
     "react": "16.14.0",
