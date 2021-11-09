@@ -10,7 +10,7 @@
     "@okta/okta-react": "6.3.0",
     "@okta/okta-signin-widget": "4.5.2",
     "antd": "4.15.5",
-    "axios": "0.21.1",
+    "axios": "0.24.0",
     "craco-less": "1.17.1",
     "multiselect-react-dropdown": "1.6.11",
     "plotly.js": "1.58.4",
