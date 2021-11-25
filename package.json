@@ -27,7 +27,7 @@
     "redux": "4.1.0",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
-    "sass": "1.32.13",
+    "sass": "1.43.5",
     "styled-components": "5.3.0"
   },
   "scripts": {
